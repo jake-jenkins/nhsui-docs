@@ -23,6 +23,6 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditOnGitHubLink: true,
+  footerEditOnGitHubLink: false,
   footerText: <>MIT {new Date().getFullYear()} Built for © Aneurin Bevan University Health Board, Designed by Jake Jenkins</>
 }
