@@ -1,4 +1,4 @@
-# I18n
+# Components
 
 Nextra supports [Next.js i18n](https://nextjs.org/docs/advanced-features/i18n-routing) out of the box.
 

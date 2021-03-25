@@ -1,4 +1,4 @@
-# Anchor Links
+# Layout
 
 `h2` tags will become anchors in the sidebar automatically.
 
