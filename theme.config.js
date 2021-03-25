@@ -24,7 +24,7 @@ export default {
   search: true,
   prevLinks: true,
   nextLinks: true,
-  footer: true,
+  footer: false,
   footerEditOnGitHubLink: false,
-  footerText: <> Built for © Aneurin Bevan University Health Board, Designed by Jake Jenkins</>
+  footerText: <> Built for © Aneurin Bevan University Health Board, Designed by <a href="https://jnx.app">Jake Jenkins</a>.</>
 }
