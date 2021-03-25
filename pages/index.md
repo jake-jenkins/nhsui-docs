@@ -7,4 +7,4 @@ hero here.
 <a href="/docs/get-started" class="nhs-btn" >Get Started</a>
 </section>
 
-screenshot here.
+![NHS UI](nhs-ui.jpg)
