@@ -17,6 +17,8 @@ export default {
       <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png"/>
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
       <meta name="msapplication-TileImage" content="/ms-icon-144x144.png"/>
+      <link rel="stylesheet" href="https://nhs.pages.dev/css/nhs-components.css" type="text/css" />
+    <link rel="stylesheet" href="https://nhs.pages.dev/css/nhs-colours.css" type="text/css" />
     </>
   ),
   search: true,
