@@ -1,40 +1,27 @@
 # Components
 
-Nextra supports [Next.js i18n](https://nextjs.org/docs/advanced-features/i18n-routing) out of the box.
+NHS UI Components list text.
 
-To add multi-language pages to your Nextra application, just need to config `i18n` in `next.config.js`:
+## Tooltips
 
-```js
-// next.config.js
-const withNextra = require('nextra')('nextra-theme-docs', './theme.config.js')
-module.exports = withNextra({
-  i18n: {
-    locales: ['en', 'zh', 'de'],
-    defaultLocale: 'en',
-  },
-})
-```
+text
 
-And then, add the locale to your files as the extension (same for the default locale):
+## Modal
 
-```
-/pages
-  index.en.md
-  index.zh.md
-  index.de.md
-  meta.en.json
-  meta.zh.json
-  meta.de.json
-  ...
-```
+text
 
-Finally, add the `i18n` option to your `theme.config.js` so the theme will show the dropdown menu:
+## Buttons
 
-```jsx
-i18n: [
-  { locale: 'en', text: 'English' },
-  { locale: 'zh', text: '中文' },
-  { locale: 'de', text: 'Deutsch' },
-  { locale: 'ar', text: 'العربية', direction: 'rtl' },
-]
-```
+text
+
+## Alerts
+
+text
+
+## Tags
+
+text
+
+## Tabs
+
+text
